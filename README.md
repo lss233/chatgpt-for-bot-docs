@@ -27,3 +27,5 @@ ChatGPT for Bot 是一个支持多平台、多语言模型的聊天机器人项�
 我们的文档在 GitHub 开源，你可以从这个地址访问：
 
 {% embed url="https://github.com/lss233/chatgpt-for-bot-docs" %}
+
+本文档基于 CC-BY 4.0 协议开源。
