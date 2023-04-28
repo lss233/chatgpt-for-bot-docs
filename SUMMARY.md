@@ -17,6 +17,8 @@
   * [🙇 对接 OneBot (go-cqhttp)](pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-onebot-gocqhttp.md)
   * [🛫 对接 Telegram](pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-telegram.md)
   * [🎧 对接 Discord](pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-discord.md)
+  * [🧑🍳 对接企业微信](pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-qi-ye-wei-xin.md)
+  * [😁 对接个人微信](pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-ge-ren-wei-xin.md)
 * [📎 接入 AI 平台](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/README.md)
   * [🤨 接入 OpenAI 的 ChatGPT](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-openai-de-chatgpt.md)
   * [😅 接入 New Bing (Sydney)](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-new-bing-sydney.md)

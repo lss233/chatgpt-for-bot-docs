@@ -25,6 +25,10 @@ OneBot 是一个典型的支持 OneBot 协议的平台。
 
 如果你在使用 go-cqhttp，那就可以不需要理会 Mirai 了。
 
+{% hint style="info" %}
+如果你通过 GO-CQHTTP 的 Linux 部署脚本来安装的这个项目，那么你可以跳过这一段教程。
+{% endhint %}
+
 ### 1. 下载 go-cqhttp
 
 你可以在这里下载最新的 go-cqhttp：[https://github.com/Mrs4s/go-cqhttp/releases](https://github.com/Mrs4s/go-cqhttp/releases)

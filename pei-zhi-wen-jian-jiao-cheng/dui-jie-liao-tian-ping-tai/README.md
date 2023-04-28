@@ -1,10 +1,6 @@
 # 📪 对接聊天平台
 
-目前，我们的一个程序实例只能对接一个聊天平台。&#x20;
-
-对于选择的平台 为 4 选 1，即 mirai onebot telegram discord 只能选择一个。
-
-也就是说 `[mirai]` `[telegram]` `[onebot]` `[discord]` 只能存在一个。
+我们现在支持同时接入多种平台，你只需要在配置文件 `config.cfg` 加入你想要接入的平台的配置，就可以开启相关功能。
 
 ## 对接 QQ
 
@@ -24,6 +20,12 @@
 [dui-jie-onebot-gocqhttp.md](dui-jie-onebot-gocqhttp.md)
 {% endcontent-ref %}
 
+## 对接企业微信
+
+{% content-ref url="dui-jie-qi-ye-wei-xin.md" %}
+[dui-jie-qi-ye-wei-xin.md](dui-jie-qi-ye-wei-xin.md)
+{% endcontent-ref %}
+
 ## 对接 Telegram
 
 {% content-ref url="dui-jie-telegram.md" %}
@@ -36,3 +38,12 @@
 [dui-jie-discord.md](dui-jie-discord.md)
 {% endcontent-ref %}
 
+### 开启 HTTP API 服务
+
+开启 HTTP 服务后，你可以通过本项目提供的 HTTP API 来接入自己开发的程序，你可以参考下面这个项目来了解详细用法：
+
+#### 通过 HTTP 服务接入个人微信
+
+{% content-ref url="dui-jie-ge-ren-wei-xin.md" %}
+[dui-jie-ge-ren-wei-xin.md](dui-jie-ge-ren-wei-xin.md)
+{% endcontent-ref %}
