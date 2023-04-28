@@ -6,6 +6,10 @@
 
 在 `config.cfg` 中加入以下配置后，将额外提供 HTTP API 支持。
 
+{% hint style="info" %}
+我们建议将本项目部署在国外服务器上，减少网络错误发生的概率。
+{% endhint %}
+
 ```toml
 [http]
 host = "0.0.0.0"
@@ -29,7 +33,7 @@ services:
     environment:
       LANG: 'C.UTF-8'
     ports:
-      - 5001:5001 # &#x3C;----- 主要就是加这一项
+      - 8234:8234 # &#x3C;----- 主要就是加这一项
     volumes:
       - ./config.cfg:/app/config.cfg
       - ./data:/app/data
@@ -38,4 +42,20 @@ services:
 
 ## 0x02 部署 [lcjqyml](https://github.com/lcjqyml)/[**wechatbot**](https://github.com/lcjqyml/wechatbot)
 
-参考：[https://github.com/lcjqyml/wechatbot](https://github.com/lcjqyml/wechatbot)
+{% hint style="info" %}
+我们建议将这个项目部署在国内的服务器上，降低微信被封号的概率。
+{% endhint %}
+
+{% hint style="info" %}
+这是一个由第三方提供的程序，教程可能会随着项目的发展而过时。
+
+建议参考原项目文档进行部署：[https://github.com/lcjqyml/wechatbot](https://github.com/lcjqyml/wechatbot)
+{% endhint %}
+
+此处以 Ubuntu 20.04 系统为例，在安装 Docker 后，执行以下命令：
+
+```bash
+docker run -e CHATBOT_PROXY="http://127.0.0.1:8234" lcjqyml/wechatbot:latest
+```
+
+将 `127.0.0.1` 换成你部署的 ChatGPT for Bot 项目服务器的 IP，然后按下回车启动，然后扫码登录即可。
