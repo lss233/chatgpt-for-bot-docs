@@ -97,7 +97,7 @@
 
 接下来，Mirai 很有可能会要求你提供验证码。这个验证码其实就和你平时登录 QQ 时做的验证码是一样的。&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 我们用鼠标选中 Mirai 提供的那一段链接，然后按一下 **鼠标右键**，这段链接就会被复制。
 

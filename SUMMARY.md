@@ -24,6 +24,7 @@
   * [🤣 接入 文心一言](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-wen-xin-yi-yan.md)
   * [🧑🎓 接入 ChatGLM](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-chatglm.md)
   * [👨🎨 接入 Poe.com](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-poe.com.md)
+  * [🥸 接入 Claude](pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-claude.md)
 * [🎤 文字转语音](pei-zhi-wen-jian-jiao-cheng/wen-zi-zhuan-yu-yin/README.md)
   * [Azure TTS 语音接入教程](pei-zhi-wen-jian-jiao-cheng/wen-zi-zhuan-yu-yin/azure-tts-yu-yin-jie-ru-jiao-cheng.md)
   * [VITS 语音接入教程](pei-zhi-wen-jian-jiao-cheng/wen-zi-zhuan-yu-yin/vits-yu-yin-jie-ru-jiao-cheng.md)
