@@ -187,7 +187,7 @@ proxy="http://127.0.0.1:1080"
 # 省略的账号信息
 
 # 如果你是 Plus 用户，加入这一条，否则无法切换至 plus 模型 
-plus=true
+paid=true
 # 这里填写的内容由你的代理服务器提供
 model="text-davinci-002-render-paid"
 ```
