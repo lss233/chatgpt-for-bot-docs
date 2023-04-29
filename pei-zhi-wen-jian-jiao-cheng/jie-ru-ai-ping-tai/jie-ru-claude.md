@@ -26,6 +26,10 @@ Claude 是由前 OpenAI 成员创立的 Anthropic 公司研发的一款 AI。
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
+你需要将 Claude 和 Claude-Interactor 同时拉入频道，才能正常收发消息。
+
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 ### 0x04 编写配置文件
 
 在 `config.cfg` 中加入以下配置项，添加相关信息：
