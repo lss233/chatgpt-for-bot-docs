@@ -79,7 +79,7 @@ password = "xxx"
 
 我们通过一种特殊的方法访问 OpenAI 的网页版 ChatGPT，这需要我们指定一个网页版的接入点。
 
-~~你可以用这个项目搭建一个自己的接入点：~~[~~https://github.com/acheong08/ChatGPT-Proxy-V4~~](https://github.com/acheong08/ChatGPT-Proxy-V4)
+你可以用这个项目搭建一个自己的接入点：[https://github.com/linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
 
 ```toml
 [openai]
