@@ -1,4 +1,4 @@
-# \[WIP] Railway 部署
+# PaaS 平台部署（Railway）
 
 {% hint style="info" %}
 本文的教程只负责 ChatGPT for Bot 的部署，如果你想接入 QQ 平台，需要另外找地方部署 Mirai 或 go-cqhttp。
@@ -8,7 +8,9 @@
 我们建议你在自己电脑上根据 Windows 快速部署教程 先部署一次，熟悉流程。
 {% endhint %}
 
-Railway 是一个 PaaS 平台，你可以在这上面运行 ChatGPT for Bot。  针对免费用户，它提供每个月 500小时（约20天） 的运行时间。&#x20;
+PaaS 平台是一种可以直接运行你代码的平台。通过这种方法部署，你不需要实际拥有一个服务器。
+
+本文以 Railway 为例，Railway 是一个 PaaS 平台，你可以在这上面运行 ChatGPT for Bot。  针对免费用户，它提供每个月 500小时（约20天） 的运行时间。&#x20;
 
 ## 0x00 开始
 

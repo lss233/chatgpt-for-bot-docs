@@ -5,9 +5,9 @@
 ## 💿 部署教程
 
 * [💡 快速部署教程](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/README.md)
-  * [Windows 快速部署教程](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/windows-kuai-su-bu-shu-jiao-cheng.md)
+  * [Windows 快速部署教程 (Mirai 版）](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/windows-kuai-su-bu-shu-jiao-cheng.md)
   * [Linux 一键部署教程](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/linux-yi-jian-bu-shu-jiao-cheng.md)
-  * [\[WIP\] Railway 部署](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/wip-railway-bu-shu.md)
+  * [PaaS 平台部署（Railway）](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/wip-railway-bu-shu.md)
 
 ## 配置文件教程
 
