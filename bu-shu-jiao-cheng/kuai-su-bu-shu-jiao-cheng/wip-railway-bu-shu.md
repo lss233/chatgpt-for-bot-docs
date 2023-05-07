@@ -60,6 +60,13 @@ PaaS 平台是一种可以直接运行你代码的平台。通过这种方法部
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
+当你的程序启动以后，会出现一个链接。通过这个链接就可以访问到你的程序。
+
+在 GO-CQHTTP 中，你可以把这个链接填到反向 WebSocket 的 Universal 地址中。
+
 ### 0x03 更新
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+
+如果项目有更新，你可以点击这里的按钮同步最新的代码。&#x20;
+
