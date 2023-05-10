@@ -30,6 +30,16 @@ Claude 是由前 OpenAI 成员创立的 Anthropic 公司研发的一款 AI。
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
+### 0x04 获取 Claude 的识别码
+
+一些用可能会遇到发消息时无法 @claude 变蓝的情况，所以我们还需要完成这一步。
+
+你需要按照下图的方式获取识别码：
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+通常来说 Claude 的识别码都是以 `U0` 开头的。
+
 ### 0x04 编写配置文件
 
 在 `config.cfg` 中加入以下配置项，添加相关信息：
@@ -37,7 +47,7 @@ Claude 是由前 OpenAI 成员创立的 Anthropic 公司研发的一款 AI。
 ```toml
 [slack]
 [[slack.accounts]]
-channel_id = "C0XXXXXX" # 这里写你获得的 channel_id 
+channel_id = "C0XXXXXX:U0xxx" # 这里写你获得的 channel_id:Claude 的识别码 
 access_token = "XXXX" # 这里写前面获得的 access_token
 
 
