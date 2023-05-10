@@ -257,3 +257,25 @@ min_tokens = 1000
 {% endhint %}
 
 参考： [#4.-shi-yong-dai-li](jie-ru-openai-de-chatgpt.md#4.-shi-yong-dai-li "mention")
+
+#### **4. 默认模型**
+
+{% hint style="info" %}
+这项设置是每个账号独立的。
+{% endhint %}
+
+如果你想切换默认使用的模型，可以加入下面的配置。
+
+```toml
+[[openai.accounts]]
+# 省略的账号信息
+
+model="gpt-3.5-turbo"
+```
+
+你可以使用这三种：
+
+* `gpt-3.5-turbo` - GPT 3.5 模型
+* `gpt-4` - GPT 4 模型
+
+后续官方有出新的模型，也可以直接写在里面使用。
