@@ -1,5 +1,11 @@
 # Linux 一键部署教程
 
+{% hint style="info" %}
+本文难度：**中**
+
+建议使用海外服务器
+{% endhint %}
+
 为了避免在你的 Linux 服务器上装一大票软件污染环境，我们使用了 Docker 来帮助你管理程序。
 
 你需要准备的有：一台版本比较新的 Linux 系统，它可以是 Ubuntu、 CentOS 或者是其他有 Docker 的系统。

@@ -14,9 +14,7 @@ ChatGPT for Bot 是一个支持多平台、多语言模型的聊天机器人项�
 [kuai-su-bu-shu-jiao-cheng](bu-shu-jiao-cheng/kuai-su-bu-shu-jiao-cheng/)
 {% endcontent-ref %}
 
-{% content-ref url="pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-onebot-gocqhttp.md" %}
-[dui-jie-onebot-gocqhttp.md](pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-onebot-gocqhttp.md)
-{% endcontent-ref %}
+{% embed url="https://github.com/lss233/chatgpt-mirai-qq-bot/wiki/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%88%97%E8%A1%A8" %}
 
 ## 开始使用
 

@@ -6,6 +6,10 @@
 
 对于 Windows，请阅读：
 
+{% content-ref url="windows-kuai-su-bu-shu-jiao-cheng-gocqhttp-ban.md" %}
+[windows-kuai-su-bu-shu-jiao-cheng-gocqhttp-ban.md](windows-kuai-su-bu-shu-jiao-cheng-gocqhttp-ban.md)
+{% endcontent-ref %}
+
 {% content-ref url="windows-kuai-su-bu-shu-jiao-cheng.md" %}
 [windows-kuai-su-bu-shu-jiao-cheng.md](windows-kuai-su-bu-shu-jiao-cheng.md)
 {% endcontent-ref %}
