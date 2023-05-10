@@ -40,7 +40,7 @@ Claude 是由前 OpenAI 成员创立的 Anthropic 公司研发的一款 AI。
 
 通常来说 Claude 的识别码都是以 `U0` 开头的。
 
-### 0x04 编写配置文件
+### 0x05 编写配置文件
 
 在 `config.cfg` 中加入以下配置项，添加相关信息：
 
