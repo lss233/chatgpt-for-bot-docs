@@ -48,3 +48,8 @@ services:
       - ./data:/app/data
       - ./presets:/app/presets
 </code></pre>
+
+修改完这个文件后，还要执行：`docker-compose up -d` 来更新容器编排，确保端口映射成功。
+
+当你完成上面的所有操作后，可以在自己的浏览器中打开：`http://你的服务器IP:5001` 看看有没有内容。如果浏览器提示打开失败，说明你的端口映射没有成功。
+
