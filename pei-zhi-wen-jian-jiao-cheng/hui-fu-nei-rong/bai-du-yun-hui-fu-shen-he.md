@@ -14,7 +14,7 @@ baidu_api_key = ""
 baidu_secret_key =""
 
 # 不合规消息自定义返回
-illgalmessage = "[百度云]请珍惜机器人，当前返回内容不合规"
+prompt_message = "[百度云]请珍惜机器人，当前返回内容不合规"
 </code></pre>
 
 你可以在这里注册百度云审核服务：
