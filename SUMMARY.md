@@ -49,3 +49,4 @@
 * [🖥 Mirai 启动过程中的常见问题](chang-jian-wen-ti-jie-da/mirai-qi-dong-guo-cheng-zhong-de-chang-jian-wen-ti.md)
 * [🧳 go-cqhttp 启动过程中的常见问题](chang-jian-wen-ti-jie-da/gocqhttp-qi-dong-guo-cheng-zhong-de-chang-jian-wen-ti.md)
 * [😓 机器人在使用过程中的常见问题](chang-jian-wen-ti-jie-da/ji-qi-ren-zai-shi-yong-guo-cheng-zhong-de-chang-jian-wen-ti.md)
+* [🚆 WebUI 常见问题解答](chang-jian-wen-ti-jie-da/webui-chang-jian-wen-ti-jie-da.md)

@@ -18,7 +18,7 @@
 
 排在最顶部的版本通常旁边有一个蓝色的 `Latest` 标识，这就说明它是项目的最新版本。
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 你要做的就是复制这里面的命令，然后粘贴到你的 Linux 终端中并回车，它就会开始安装。
 
