@@ -16,7 +16,8 @@
 
 ## 0x01 一键安装
 打开 [发布页](https://github.com/lss233/chatgpt-mirai-qq-bot)
-![image](https://github.com/B17w153/chatgpt-for-bot-docs/assets/134407644/0df8171b-171c-41ac-b6fe-847139fc54d6)
+![image](https://github.com/B17w153/chatgpt-for-bot-docs/assets/134407644/ce9f6b7f-eb39-478d-b532-aa5feec8d68e)
+
 
 注意！
 
