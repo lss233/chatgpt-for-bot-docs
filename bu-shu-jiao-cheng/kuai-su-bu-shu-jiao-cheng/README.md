@@ -19,3 +19,10 @@
 {% content-ref url="linux-yi-jian-bu-shu-jiao-cheng.md" %}
 [linux-yi-jian-bu-shu-jiao-cheng.md](linux-yi-jian-bu-shu-jiao-cheng.md)
 {% endcontent-ref %}
+
+对于 Linux 安卓模拟器（aidlux），请阅读:
+
+
+{% content-ref url="aidlux-bu-shu-jiao-cheng.md" %}
+[aidlux-bu-shu-jiao-cheng.md](aidlux-bu-shu-jiao-cheng.md)
+{% endcontent-ref %}
