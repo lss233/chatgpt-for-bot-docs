@@ -12,5 +12,14 @@
 ## 0x00 一键安装
 打开[发布页](https://github.com/lss233/chatgpt-mirai-qq-bot)
 ![image](https://github.com/B17w153/chatgpt-for-bot-docs/assets/134407644/0df8171b-171c-41ac-b6fe-847139fc54d6)
+
+注意！
+  这个脚本是后来乱写的懒人脚本，可能与教程的目录设置上有些出入，但总体的思想是一样的。
+  
+  go-cqhttp 安装目录为 /home/onebot 
+  
+  chatgpt-mirai-qq-bot目录为/ home/GPT/chatgpt-mirai-qq-bot 
+  
+  需要自己配置文件！ 
 ## 0x01
 视频教程链接 [ACFUN](https://m.acfun.cn/v/?ac=41422759)
