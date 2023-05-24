@@ -9,7 +9,12 @@
   ```bash
   # 优点：低功耗，环保，废物利用？
   ```
-## 0x00 一键安装
+
+## 0x00 手动部署总体视频教程
+视频教程链接 [ACFUN](https://m.acfun.cn/v/?ac=41422759)
+
+
+## 0x01 一键安装
 打开 [发布页](https://github.com/lss233/chatgpt-mirai-qq-bot)
 ![image](https://github.com/B17w153/chatgpt-for-bot-docs/assets/134407644/0df8171b-171c-41ac-b6fe-847139fc54d6)
 
@@ -22,5 +27,16 @@
   chatgpt-mirai-qq-bot目录为 `/home/GPT/chatgpt-mirai-qq-bot`
   
   需要自己配置文件！ 
-## 0x01
-视频教程链接 [ACFUN](https://m.acfun.cn/v/?ac=41422759)
+  
+## 0x02 配置文件参考
+我所用到的：
+
+[Go-cqhttp配置教程](https://github.com/lss233/chatgpt-for-bot-docs/blob/main/pei-zhi-wen-jian-jiao-cheng/dui-jie-liao-tian-ping-tai/dui-jie-onebot-gocqhttp.md)
+
+[OpenAI配置教程](https://github.com/lss233/chatgpt-for-bot-docs/blob/main/pei-zhi-wen-jian-jiao-cheng/jie-ru-ai-ping-tai/jie-ru-openai-de-chatgpt.md)
+
+[机器人配置文件教程](https://github.com/lss233/chatgpt-for-bot-docs/blob/main/pei-zhi-wen-jian-jiao-cheng/wan-zheng-pei-zhi-wen-jian-yang-li.md)
+
+其他配置文件汇总:
+
+[汇总](https://github.com/lss233/chatgpt-for-bot-docs/blob/main/SUMMARY.md)
