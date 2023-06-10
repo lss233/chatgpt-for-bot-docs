@@ -134,20 +134,21 @@ default_ai = "chatgpt-web"
 
 可以填的参数：
 
-* chatgpt-web: 网页版 ChatGPT
-* chatgpt-api: API 版 ChatGPT (GPT3.5-turbo)
-* bing-c: New Bing (新必应对话风格-创造力)
-* bing-p: New Bing (新必应对话风格-精确)
-* bing-b: New Bing (新必应对话风格-平衡)
-* bard - Google Bard
-* yiyan - 百度 文心一言 网页版
-* chatglm-api - 清华 ChatGLM-API 接口
-* sage - POE Sage 模型
-* beaver - POE GPT4 模型
-* claude2 - POE Claude2 模型
-* claude - POE Claude 模型
-* chinchilla - POE ChatGPT 模型
-* nutria - POE Dragonfly 模型
+* `chatgpt-web`- 网页版 ChatGPT
+* `chatgpt-api` - API 版 ChatGPT (GPT3.5-turbo)
+* `bing-c` - New Bing (新必应对话风格-创造力)
+* `bing-p` - New Bing (新必应对话风格-精确)
+* `bing-b` - New Bing (新必应对话风格-平衡)
+* `bard` - Google Bard
+* `yiyan` - 百度 文心一言 网页版
+* `chatglm-api` - 清华 ChatGLM-API 接口
+* `xinghuo` - 讯飞星火模型
+* `poe-sage` - POE Sage 模型
+* `poe-beaver` - POE GPT4 模型
+* `poe-claude2` - POE Claude2 模型
+* `poe-claude` - POE Claude 模型
+* `poe-chatgpt` - POE ChatGPT 模型
+* `poe-nutria` - POE Dragonfly 模型
 
 ## 引用发送的消息
 
