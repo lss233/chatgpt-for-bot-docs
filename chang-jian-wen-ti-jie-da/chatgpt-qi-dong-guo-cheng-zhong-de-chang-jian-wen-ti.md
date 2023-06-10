@@ -4,7 +4,7 @@
 
 #### 1. 使用邮箱密码登录 OpenAI 时，出现：登录失败! 连接 OpenAI 服务器失败,请更换代理节点重试
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 原因及解决方法：
 
@@ -20,7 +20,7 @@
 
 #### 3. 未能使用所配置的账号激活 sessionKey，请检查 mirai\_session 配置
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 出现这个问题的原因可能是因为你启动 Mirai 的时候没有登录 QQ。
 

@@ -68,7 +68,7 @@ OneBot 是一个典型的支持 OneBot 协议的平台。
 
 首次启动时我们不要登录 QQ，我们只是需要它生成的 `device.json`文件。
 
-<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. 打开 device.json，修改协议
 

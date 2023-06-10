@@ -2,7 +2,7 @@
 
 #### 1. 使用过程中出现：\[reverse-ws] Connection to localhost:8554/ interrupted.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 这是因为你的 Mirai 没有连上我们程序。请检查一下我们程序是不是启动了。 &#x20;
 

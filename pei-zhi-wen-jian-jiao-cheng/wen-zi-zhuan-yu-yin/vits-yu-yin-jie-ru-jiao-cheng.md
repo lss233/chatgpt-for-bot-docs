@@ -106,6 +106,6 @@ timeout = 30
 
 完成之后，输入 `docker-compose up -d` 更新容器编排。 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 然后你的接口地址就是： `http://moegoe:23456/voice`

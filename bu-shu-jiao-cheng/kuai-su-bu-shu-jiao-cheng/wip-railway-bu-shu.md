@@ -48,7 +48,7 @@ PaaS 平台是一种可以直接运行你代码的平台。通过这种方法部
 
 点击 Variables -> CHATGPT\_FOR\_BOT\_FULL\_CONFIG -> Edit，然后重新粘贴配置文件，点击打勾保存。
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ PaaS 平台是一种可以直接运行你代码的平台。通过这种方法部
 
 ### 0x02 接入 GO-CQHTTP
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 当你的程序启动以后，会出现一个链接。通过这个链接就可以访问到你的程序。
 
