@@ -52,7 +52,7 @@ access_token = "一串 ey 开头的东西"
 4. 提取出这段代码中的 `"eyJhbGciOiJS*****X7GdA"` ，填写到配置文件中即可。
 5. accessToken 的有效期为 30 天，到期后需要使用同样的方法进行更换。
 
-### **登录方式二：邮箱密码**&#x20;
+### **登录方式二：邮箱密码**
 
 邮箱密码登录的方式可以解决 accessToken 过期的问题。
 
@@ -83,8 +83,9 @@ password = "xxx"
 
 ```toml
 [openai]
-# 网页版 ChatGPT 接入点，欢迎在交流群中分享你的接入点
 browserless_endpoint = "https://chatgpt-proxy.lss233.com/api/"
+# 网页版 ChatGPT 接入点，欢迎在交流群中分享你的接入点
+browserless_endpoint = "https://chat.alanx.cn/"
 ```
 
 #### **2. 对话记录自动删除**
@@ -150,25 +151,23 @@ proxy="http://127.0.0.1:1080"
 
 我们要填写的是你电脑上通过这些代理软件提供的代理地址，而不是你的代理**节点地址**。
 
-### v2rayN
+#### v2rayN
 
 <img src="../../.gitbook/assets/image (49).png" alt="" data-size="original">
 
 你的地址就填 `http://127.0.0.1:10808` ，其中 `10808` 这个数字要改成图中红框标出的两个数字中的一个。
 
-### Clash
+#### Clash
 
-![](<../../.gitbook/assets/image (38).png>)
+<img src="../../.gitbook/assets/image (38).png" alt="" data-size="original">
 
 你的地址就填 `http://127.0.0.1:7890`，其中 `7890`这个数字要改成图中红框标出的数字。
 
-### 其他软件
+#### 其他软件
 
 你的软件应该会提供类似的端口号。如果你实在找不到的话可以问问客服，或者还有一种方法：
 
 把有关代理的配置全部删除，然后在代理软件上开启全局模式。
-
-
 
 </details>
 
@@ -226,8 +225,9 @@ api_key = "sk-xxxx"
 
 ```toml
 [openai]
-# API 接入点，欢迎在交流群中分享你的接入点
 api_endpoint = "https://api.openai.com/v1"
+# API 接入点，欢迎在交流群中分享你的接入点
+api_endpoint = "https://api.alanx.cn/v1"
 ```
 
 #### **2.模型参数**

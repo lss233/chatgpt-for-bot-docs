@@ -13,11 +13,11 @@
 
 如果你使用其他的语言模型，那么则会根据你上面设置的顺序来选择使用哪个画图 AI，不支持切换。
 
-## 接入 Stable Diffusion 画图
+## 🥑接入 Stable Diffusion 画图
 
-Stable Diffusion 需要你搭建一个 sd-webui。
+Stable Diffusion 需要你搭建一个 sd-webui，云GPU型服务器有公网IP才能接入
 
-然后在你的配置文件中加入以下内容：
+然后在`config.cfg`中加入以下内容：
 
 ```toml
 [sdwebui]
@@ -34,6 +34,32 @@ filter_nsfw = true
 # 你可以在这里看所有支持的 sd 参数: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API
 # 画图超时时间，单位为秒
 timeout = 10.0
+```
+
+### 推荐使用秋叶的整合包
+
+**sd在自己电脑跑**
+
+{% embed url="https://space.bilibili.com/12566101" %}
+
+<figure><img src="../.gitbook/assets/9d9b9a2ebeaa9d36c9a9ba0e8b56b359.png" alt=""><figcaption></figcaption></figure>
+
+* 1.打开启动器→高级选项→网络设置
+
+<figure><img src="../.gitbook/assets/{BE032FB8-6409-4a0f-BBDA-EBC54408BFC1}.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;          如果机器人在本地，Gradio共享不用打开
+
+* 2.打开允许加载不安全的模型
+
+<figure><img src="../.gitbook/assets/{2DFF8933-A6E1-43fa-BF9D-5E1227C53311} (1).png" alt=""><figcaption></figcaption></figure>
+
+* &#x20;3.复制红框,URL
+
+<figure><img src="../.gitbook/assets/{C36F129C-B01C-4066-A17A-B69182ACB54D}.png" alt=""><figcaption></figcaption></figure>
+
+```
+api_url='https://c2laee99alf7c91de4.gradio.live'     #替换
 ```
 
 ## 接入 Bing 画图
