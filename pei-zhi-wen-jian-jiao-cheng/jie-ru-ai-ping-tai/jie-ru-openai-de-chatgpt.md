@@ -52,7 +52,7 @@ access_token = "一串 ey 开头的东西"
 4. 提取出这段代码中的 `"eyJhbGciOiJS*****X7GdA"` ，填写到配置文件中即可。
 5. accessToken 的有效期为 30 天，到期后需要使用同样的方法进行更换。
 
-### **登录方式二：邮箱密码**
+### **登录方式二：邮箱密码(目前不可用）**
 
 邮箱密码登录的方式可以解决 accessToken 过期的问题。
 
@@ -85,8 +85,12 @@ password = "xxx"
 [openai]
 browserless_endpoint = "https://chatgpt-proxy.lss233.com/api/"
 # 网页版 ChatGPT 接入点，欢迎在交流群中分享你的接入点
-browserless_endpoint = "https://chat.alanx.cn/"
 ```
+
+跑路网友的接入点（第三方接入点），随时会<mark style="color:red;">跑路</mark>，安全性无法保证
+
+<pre><code><strong>browserless_endpoint = "https://chat.alanx.cn/"
+</strong></code></pre>
 
 #### **2. 对话记录自动删除**
 
@@ -227,6 +231,11 @@ api_key = "sk-xxxx"
 [openai]
 api_endpoint = "https://api.openai.com/v1"
 # API 接入点，欢迎在交流群中分享你的接入点
+```
+
+跑路网友的接入点（第三方接入点），随时会<mark style="color:red;">跑路</mark>，安全性无法保证
+
+```
 api_endpoint = "https://api.alanx.cn/v1"
 ```
 

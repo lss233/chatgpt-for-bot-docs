@@ -29,7 +29,7 @@ reverse_ws_port = 8566
 
 ### 2. 初始化 go-cqhttp
 
-解压并启动 go-cqhttp，选 `3` 后回车，退出程序。
+解压并启动 go-cqhttp（路径不建议出现中文），选 `3` 后回车，退出程序。
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ ws//13.250.31.91:8566/ws #这里的13.250.31.91为服务器ip
 
 ### 🍊 映射 \`reverse\_ws\_port\` 端口
 
-这一步是使用 Docker部署的同学才需要做的， Windows 用户可以直接跳过。
+这一步是使用 <mark style="color:red;">Docker部署</mark>的同学才需要做的， Windows 用户可以直接跳过。
 
 打开 docker-compose.yaml，在图中的位置加入下面这么一行 ：
 
@@ -96,7 +96,7 @@ ports:
 
 #### win，Linux服务器部署：同步 session.token 文件
 
-在自己的电脑上来登陆一次 go-cqhttp，扫码登录成功后
+在自己的电脑上来登陆一次 go-cqhttp，登录成功后
 
 把`device.json和session.token`放到服务器go-cqhttp文件夹中
 
@@ -106,9 +106,8 @@ ports:
 
 将 `127.0.0.1` → chatgpt 服务器的公网 IP 地址。
 
-记得在云服务器安全组开放对应端口
-
 ```
 ws//13.250.31.91:8566/ws #这里的13.250.31.91为服务器ip
 ```
 
+记得在云服务器安全组开放对应端口

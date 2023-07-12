@@ -38,7 +38,7 @@ timeout = 10.0
 
 ### 推荐使用秋叶的整合包
 
-**sd在自己电脑跑**
+以下sd是在自己电脑跑
 
 {% embed url="https://space.bilibili.com/12566101" %}
 
