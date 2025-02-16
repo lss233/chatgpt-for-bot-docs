@@ -1,10 +1,16 @@
 # 👋 ChatGPT for Bot 使用文档
 
+## &#x20;**V3 版本文档编写中**
+
+当前正在浏览的是 V2 版本的使用文档， V3 版本的文档正在编写中。
+
 ## Overview
 
 ChatGPT for Bot 是一个支持多平台、多语言模型的聊天机器人项目。
 
 它可以让你在聊天平台上对接语言模型，实现和语言模型的直接对话。
+
+##
 
 <figure><img src=".gitbook/assets/WNGVV37)W{@W_MZIT60CPNC.png" alt=""><figcaption></figcaption></figure>
 
